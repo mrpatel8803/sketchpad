@@ -1,0 +1,55 @@
+td.tablecell
+{
+    border: 2px solid black;
+    padding: 1rem;
+    
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container
+{
+    display: block;
+    margin-left: 1rem;
+    margin-top: 9rem;
+    width: 52.8rem;
+}
+#reset
+{
+    height: 3rem;
+    width: 9rem;
+    font-size: 1.9rem;
+    position: absolute;
+    right: 3rem;
+    top: 0rem;
+}
+#creategrid-btn
+{
+    height: 3rem;
+    width: 9rem;
+    font-size: 1.5rem;
+}
+#color
+{
+    display: block;
+    height: 3rem;
+    width: 7rem;
+    position: absolute;
+    right: 14rem;
+    top: 0rem;
+}
+#eraser
+{
+    display: block;
+    height: 3rem;
+    width: 7rem;
+    position: absolute;
+    right: 24rem;
+    top: 0rem;
+    font-size: 1.5rem;
+}
+.tbs {
+    overflow-x: scroll;
+}
